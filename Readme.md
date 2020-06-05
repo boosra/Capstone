@@ -26,7 +26,7 @@ We at NB Recruiting help place women in rewarding tech positions. We will build 
 
 ### Executive Summary
 
-The objective of our study is to use regression to examine the [data.world](https://data.world/finance/data-professional-salary-survey/workspace/file?filename=2019_Data_Professional_Salary_Survey_Responses.xlsx) dataset, which includes Job title, years with this type of job,  salary, and additional benefits, gathered from women all over the world. For this study, we will limit our scope to just US working women.
+The objective of our study is to use regression to examine the [this](https://data.world/finance/data-professional-salary-survey/workspace/file?filename=2019_Data_Professional_Salary_Survey_Responses.xlsx) dataset, which includes Job title, years with this type of job,  salary, and additional benefits, gathered from women all over the world. For this study, we will limit our scope to just US working women.
 
 
 Our US-only dataset has 6893 observations. We cleaned the data replaced NaN values, checked for duplicates, and did extensive  exploratory data analysis, looking for individual columns of  importance to Salary, our target variable. Some variables were feature engineered to focus on the important aspects of this problem.
@@ -75,5 +75,4 @@ Some experts believe one should always negotiate salary and ask for more money. 
 
 ### References:
 
- https://data.world/finance/data-professional-salary-survey/workspace/file?filename=2019_Data_Professional_Salary_Survey_Responses.xlsx
-# Capstone
+[Data.world](https://data.world/finance/data-professional-salary-survey/workspace/file?filename=2019_Data_Professional_Salary_Survey_Responses.xlsx)
