@@ -38,7 +38,7 @@ Our US-only dataset has 6893 observations. We cleaned the data replaced NaN valu
 We checked only in the USA what type of jobs are popular in given survey years, also find out that jobs salary especially for women. women who have jobs but for some reason, they are looking for another job.  We checked how long they worked per week. How much they are getting paid with having a certificate, education level, and job status. Based on the primary database, we also look for years of working women, how about their salary, and career plan. We have a clear vision from our EDA part about Salary dependency.
 
 
-Before women even think about negotiating salary, it’s important to know how much they expect to earn in their next job. If the offer isn’t close, they don’t need to take it. If they were expecting \\$60k, for example, and the offer is for \\$40k, it is probably too much of a reach. This model is designed to help women  rethink their expectations and land the right job.
+Before women even think about negotiating salary, it’s important to know how much they expect to earn in their next job. If the offer isn’t close, they don’t need to take it. If they were expecting $60k, for example, and the offer is for $40k, it is probably too much of a reach. This model is designed to help women  rethink their expectations and land the right job.
 
 ### Data Dictionary:  
 
